@@ -12,13 +12,6 @@
 
 ---
 
-### 🔭 Current Projects:
-- **CBZ Volume Creator and Editor**: [Check it out on GitHub](https://github.com/SchmidtiTv/cbz_editor) - An open-source CBZ editor licensed under the MIT License.
-  
-- 🔧 **Next.js Library**: Working with modern web technologies like Next.js to build dynamic web applications.
-
----
-
 - 🌱 Continuously exploring: **Python, JavaScript**, and modern frameworks like **Next.js**.
 
 - 💡 Fun fact: I enjoy diving into **creative projects** like 3D modeling and game development.
